@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\UserGUI.cs">
+    <Files>
+      <File FileName="Assets\Script\Move.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\ClickOp.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\CharacterController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\CoastController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\BoatController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Director.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\UserGUI.cs" Line="28" Column="16" />
+      <File FileName="Assets\Script\FirstController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
