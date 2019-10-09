@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="F:\Unity3D\UnityProj\HIT UFO\Assets\CCMoveAction.cs">
+    <Files>
+      <File FileName="Assets\Script\SSAction.cs" Line="10" Column="2" />
+      <File FileName="Assets\Script\CCSequenceAction.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\CCMoveToAction.cs" Line="1" Column="1" />
+      <File FileName="F:\Unity3D\UnityProj\HIT UFO\Assets\CCMoveAction.cs" Line="9" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

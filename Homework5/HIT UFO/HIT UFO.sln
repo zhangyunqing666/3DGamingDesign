@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{ADFD02EA-E9C4-8E6A-3454-12F3C7CF6495}") = "HIT UFO", "Assembly-CSharp.csproj", "{CF73DF3F-00CA-4115-657F-74795EECB11E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF73DF3F-00CA-4115-657F-74795EECB11E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF73DF3F-00CA-4115-657F-74795EECB11E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF73DF3F-00CA-4115-657F-74795EECB11E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF73DF3F-00CA-4115-657F-74795EECB11E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
