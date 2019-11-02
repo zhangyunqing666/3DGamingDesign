@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{98612510-AED1-45A0-8384-1EE6186B28B7}") = "EscapeFromPatrols", "Assembly-CSharp.csproj", "{609FA86F-B158-08CC-D145-731C32DFFC35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{609FA86F-B158-08CC-D145-731C32DFFC35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{609FA86F-B158-08CC-D145-731C32DFFC35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{609FA86F-B158-08CC-D145-731C32DFFC35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{609FA86F-B158-08CC-D145-731C32DFFC35}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

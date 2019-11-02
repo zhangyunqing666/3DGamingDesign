@@ -1,0 +1,28 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ObjectFactory.cs">
+    <Files>
+      <File FileName="Assets\ActorController.cs" Line="1" Column="1" />
+      <File FileName="Assets\BaseActionType.cs" Line="1" Column="1" />
+      <File FileName="Assets\ObjectFactory.cs" Line="1" Column="1" />
+      <File FileName="Assets\PatrolUI.cs" Line="80" Column="79" />
+      <File FileName="Assets\Observser.cs" Line="6" Column="28" />
+      <File FileName="Assets\SceneController.cs" Line="1" Column="1" />
+      <File FileName="Assets\ScoreRecorder.cs" Line="1" Column="1" />
+      <File FileName="Assets\UIController.cs" Line="1" Column="1" />
+      <File FileName="Assets\ISSActionCallback.cs" Line="1" Column="1" />
+      <File FileName="Assets\SSAction.cs" Line="1" Column="1" />
+      <File FileName="Assets\CCSequenceAction.cs" Line="1" Column="1" />
+      <File FileName="Assets\IdleAction.cs" Line="1" Column="1" />
+      <File FileName="Assets\WalkAction.cs" Line="1" Column="1" />
+      <File FileName="Assets\RunAction.cs" Line="1" Column="1" />
+      <File FileName="Assets\SSActionManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Publisher.cs" Line="1" Column="1" />
+      <File FileName="Assets\Singleton.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
