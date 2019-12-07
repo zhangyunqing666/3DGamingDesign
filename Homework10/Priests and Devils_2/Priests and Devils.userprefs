@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\FirstController.cs">
+    <Files>
+      <File FileName="Assets\Script\Move.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\FirstController.cs" Line="106" Column="35" />
+      <File FileName="Assets\Script\SSAction.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\CCMoveToAction.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\CCSequenceAction.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\SSActionManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\SSActionEventType.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Judge.cs" Line="5" Column="1" />
+      <File FileName="Assets\Script\CoastController.cs" Line="53" Column="23" />
+      <File FileName="Assets\Script\Director.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
